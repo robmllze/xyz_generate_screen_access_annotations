@@ -2,4 +2,4 @@ name: xyz_generate_screen_access_annotations
 version: 0.1.0
 publish_to: none
 environment:
-  sdk: '>=3.0.0-218.1.beta <4.0.0'
+  sdk: '>= 3.0.0 < 4.0.0'
